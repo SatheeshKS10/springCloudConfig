@@ -1,1 +1,1 @@
-knap.test.cloud.config.server="This is a test config server property"
+app.test.property = "test property"
